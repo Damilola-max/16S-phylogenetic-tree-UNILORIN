@@ -15,10 +15,7 @@ STEP2_names.txt
 # Ignore old tree files
 STEP3_tree.nwk
 
-# Ignore plot scripts (not needed for publication)
-make_plot.py
-plot_simple.py
-align_and_build_tree.py
+# Python scripts are INCLUDED for reproducibility
 
 # Ignore OS files
 .DS_Store
