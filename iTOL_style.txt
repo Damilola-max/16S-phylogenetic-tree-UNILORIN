@@ -1,0 +1,26 @@
+TREE_STYLE
+Basic tree style settings
+
+margin	50
+branch_spacing	5
+branch_thickness	3
+label_font_size	12
+label_font_bold	1
+
+CIRCULAR
+START_ANGLE	270
+ROTATION	0
+
+COLOR_BRANCHES
+1
+
+LABELS
+show_leaves	1
+show_inner	0
+
+LEGEND
+TITLE	Phylogenetic Groups
+POSITION	BOTTOM
+
+LEGEND_ENTRY	Study Isolates (UNILORIN)	#E74C3C
+LEGEND_ENTRY	Reference Type Strains (ATCC)	#3498DB

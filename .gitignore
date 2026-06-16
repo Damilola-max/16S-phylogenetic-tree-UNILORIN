@@ -1,0 +1,25 @@
+# Ignore log files
+*.log
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore intermediate alignment files
+ALIGNED_sequences.fasta
+ALIGNED_sequences_CLEAN.fasta
+STEP1_clean.fasta
+STEP2_distances.npy
+STEP2_names.txt
+
+# Ignore old tree files
+STEP3_tree.nwk
+
+# Ignore plot scripts (not needed for publication)
+make_plot.py
+plot_simple.py
+align_and_build_tree.py
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
